@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Fundamentals of Deep Learning",
+        "issuer": "NVIDIA",
+        "category": "AI & Machine Learning",
+        "date": "Février 21, 2025",
+        "certId": "QMBADEfYSQuHYwVgGEA5ww",
+        "image": "/images/certificates/deep.jpg",
+        "bullets": [
+            "Maîtrise des fondamentaux du deep learning et des réseaux de neurones.",
+            "Compréhension des architectures de deep learning courantes.",
+            "Pratique avec les frameworks de deep learning populaires."
+        ]
+    },
+    {
+        "title": "Kubernetes Troubleshooting for Application Developers",
+        "issuer": "KodeKloud",
+        "category": "DevOps",
+        "date": "February 17, 2026",
+        "certId": "8f51b309-62bc-4e0d-ac7b-5cd42b552449",
+        "image": "/images/certificates/kbernet.jpg",
+        "bullets": [
+            "Expertise en diagnostic et résolution de problèmes Kubernetes.",
+            "Compétences avancées en déploiement et gestion de conteneurs.",
+            "Optimisation des applications dans un environnement Kubernetes."
+        ]
+    },
+    {
+        "title": "Docker Training Course for the Absolute Beginner",
+        "issuer": "KodeKloud",
+        "category": "DevOps",
+        "date": "February 16, 2026",
+        "certId": "721ffea2-ae25-496f-bd98-a1c542ad39e6",
+        "image": "/images/certificates/docker.jpg",
+        "bullets": [
+            "Compréhension complète des concepts fondamentaux de Docker.",
+            "Création et gestion d'images et de conteneurs Docker.",
+            "Déploiement d'applications en utilisant Docker."
+        ]
+    },
+    {
+        "title": "Maîtrise des règles et des procédures relatives au vote et au dépouillement des suffrages.",
+        "titleFr": "Compétence en Règles de Vote et de Dépouillement",
+        "issuer": "Haute Instance Indépendante pour les Élections (ISIE)",
+        "category": "Gouvernance",
+        "date": "30/09/2024",
+        "image": "/images/certificates/isie.jpeg",
+        "bullets": [
+            "Expertise en règles et procédures de vote et de dépouillement.",
+            "Application pratique des normes démocratiques."
+        ]
+    }
+]

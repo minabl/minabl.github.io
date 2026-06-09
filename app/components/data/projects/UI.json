@@ -1,0 +1,137 @@
+[
+    {
+        "project": "Hyper Game and Quiz",
+        "url": "https://www.youtube.com/watch?v=GRovBQPYtY4",
+        "repoUrl": "https://github.com/minabl/gamee",
+        "repo": "Public",
+        "descriptionTitle": "mobile",
+        "description": "An educational game that combines learning and fun, offering interactive quizzes and challenges built with Unity.",
+        "imageOptions": [
+            {
+                "key": "size",
+                "value": "large"
+            }
+
+        ],
+        "images": [
+            {
+                "key": "portfolio",
+                "hover": "left",
+                "h": "397",
+                "w": "556",
+                "url": "./images/game.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "unity",
+                "name": "Unity",
+                "type": "devicon"
+            },
+            {
+                "key": "csharp",
+                "name": "C#",
+                "type": "devicon"
+                
+            }
+        ]
+    },
+    {
+        "project": "RechercheSolr",
+        "url": "https://www.youtube.com/watch?v=qQoA9V_jkMI",
+        "repoUrl": "",
+        "repo": "Public",
+        "descriptionTitle": "Indexing",
+        "description": "Manage and extract text from various document types, and search documents with relevance scores using Solr.",
+        "imageOptions": [
+            {
+                "key": "size",
+                "value": "large"
+            }
+        ],
+        "images": [
+            {
+                "key": "portfolio",
+                "hover": "left",
+                "h": "397",
+                "w": "556",
+                "url": "./images/solr.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "java",
+                "name": "Java",
+                "type": "devicon"
+            },
+            {
+                "key": "spring",
+                "name": "Spring Boot",
+                "type": "devicon"
+            },
+            {
+                "key": "tika",
+                "name": "Apache Tika",
+                "type": "devicon"
+            },
+            {
+                "key": "solr",
+                "name": "Apache Solr",
+                "type": "devicon"
+            }
+        ]
+    },
+    {
+        "project": "Fragrance of Light",
+        "repoUrl": "",
+        "repo": "Public",
+        "descriptionTitle": "design ",
+        "description": "3D models of the bottle.HD renders of multiple perspectives of the bottle in different contexts.Visual and graphic presentation .",
+        "images": [
+            {
+                "key": "portfolio3",
+                "hover": "left",
+                "h": "100",
+                "w": "100",
+                "url": "./images/parfun.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "blender",
+                "name": "Blender",
+                "type": "devicon"
+            }
+        ]
+    },
+    {
+        "project": "Social Media Design",
+        "repoUrl": "",
+        "repo": "Public",
+        "descriptionTitle": "design",
+        "description": "Creation of visual content for social media platforms including posts, stories, banners, and brand identity assets.",
+        "images": [
+            {
+                "key": "portfolio4",
+                "hover": "left",
+                "h": "100",
+                "w": "100",
+                "url": "./images/socialmmd.png"
+            },
+            {
+                "key": "portfolio5",
+                "hover": "right",
+                "h": "100",
+                "w": "100",
+                "url": "./images/socialm.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "photoshop",
+                "name": "Photoshop",
+                "type": "devicon"
+            }
+        ]
+    }
+]

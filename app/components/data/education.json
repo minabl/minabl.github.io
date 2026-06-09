@@ -1,0 +1,16 @@
+[
+    { 
+        "role": "Master's Degree in Web Services and Multimedia", 
+        "company": "ISITCOM | Higher Institute of Computer Science and Communication Techniques", 
+        "period": "Sept 2023 — Jul 2025", 
+        "location": "Hammam Sousse, Tunisia", 
+        "tags": ["Advanced Web Development", "Web Services and SOA", "Cloud Computing and Service Architectures"]
+    },
+    { 
+        "role": "Bachelor's Degree in Computer Science and Multimedia", 
+        "company": "ISITCOM | Higher Institute of Computer Science and Communication Techniques", 
+        "period": "Sept 2020 — Jul 2023", 
+        "location": "Hammam Sousse, Tunisia", 
+        "tags": ["Data Structures", "Algorithms", "OOP", "Database Design", "Mathematics", "Networks", "Multimedia Systems"]
+    }
+]

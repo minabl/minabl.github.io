@@ -1,0 +1,216 @@
+[
+    {
+        "project": "ClimateLearn",
+        "url": "https://www.youtube.com/watch?v=eYYDS0R3yuo",
+        "repoUrl": "",
+        "repo": "Public",
+        "descriptionTitle": "mobile",
+        "description": "An interactive mobile app that makes climate education engaging through immersive courses and dynamic quizzes built with React Native.",
+        "imageOptions": [
+            {
+                "key": "size",
+                "value": "large"
+            }
+        ],
+        "images": [
+            {
+                "key": "portfolio",
+                "hover": "left",
+                "h": "397",
+                "w": "556",
+                "url": "./images/eco1.png"
+            },
+            {
+                "key": "image1",
+                "hover": "top",
+                "h": "397",
+                "w": "556",
+                "url": "./images/eco2.png"
+            },
+            {
+                "key": "image2",
+                "hover": "right",
+                "h": "397",
+                "w": "556",
+                "url": "./images/eco3.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "react-native",
+                "name": "React Native",
+                "type": "devicon"
+            },
+            {
+                "key": "redux",
+                "name": "Redux",
+                "type": "devicon"
+            },
+            {
+                "key": "firebase",
+                "name": "Firebase",
+                "type": "devicon"
+            }
+        ]
+    },
+    {
+        "project": "Film Library",
+        "url": "",
+        "repoUrl": "",
+        "repo": "Private",
+        "descriptionTitle": "Create a Spring MVC application",
+        "description": "A full-stack film catalog app with CRUD operations, role-based authentication, REST APIs documented with Swagger.",
+        "imageOptions": [],
+        "images": [
+            {
+                "key": "mock-stack",
+                "hover": "right",
+                "h": "500",
+                "w": "556",
+                "url": "./images/film.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "java",
+                "name": "Java",
+                "type": "devicon"
+            },
+            {
+                "key": "spring",
+                "name": "Spring Boot",
+                "type": "devicon"
+            },
+            {
+                "key": "bootstrap",
+                "name": "Bootstrap",
+                "type": "devicon"
+            },
+            {
+                "key": "springsecurity",
+                "name": "Spring Security",
+                "type": "devicon"
+            },
+            {
+                "key": "thymeleaf",
+                "name": "Thymeleaf",
+                "type": "devicon"
+            },
+            {
+                "key": "swagger",
+                "name": "Swagger",
+                "type": "devicon"
+            },
+            {
+                "key": "git",
+                "name": "Git(Hub)",
+                "type": "devicon"
+            },
+            {
+                "key": "mysql",
+                "name": "MySQL",
+                "type": "devicon"
+            }
+        ]
+    },
+    {
+        "project": "Personalized Diet Plan",
+        "url": "",
+        "repoUrl": "",
+        "repo": "Private",
+        "descriptionTitle": "Indexing",
+        "description": "A health web platform that generates personalized nutrition plans and sells dietary supplements, built with Angular and Spring Boot.",
+        "imageOptions": [
+            {
+                "key": "size",
+                "value": "large"
+            }
+        ],
+        "images": [
+            {
+                "key": "portfolio",
+                "hover": "left",
+                "h": "297",
+                "w": "556",
+                "url": "./images/regim.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "angular",
+                "name": "Angular",
+                "type": "devicon"
+            },
+            {
+                "key": "spring",
+                "name": "Spring Boot",
+                "type": "devicon"
+            },
+            {
+                "key": "jwt",
+                "name": "JWT",
+                "type": "devicon"
+            },
+            {
+                "key": "html5",
+                "name": "HTML5",
+                "type": "devicon"
+            },
+            {
+                "key": "css3",
+                "name": "CSS3",
+                "type": "devicon"
+            },
+            {
+                "key": "git",
+                "name": "Git(Hub)",
+                "type": "devicon"
+            },
+            {
+                "key": "bootstrap",
+                "name": "Bootstrap",
+                "type": "devicon"
+            },
+            {
+                "key": "mysql",
+                "name": "MySQL",
+                "type": "devicon"
+            }
+        ]
+    },
+    {
+        "project": "Mobile Education App",
+        "repoUrl": "",
+        "repo": "Public",
+        "descriptionTitle": "mobile",
+        "description": "A child-friendly Android app that helps first-grade students practice foundational math through fun and interactive exercises.",
+        "images": [
+            {
+                "key": "portfolio",
+                "hover": "left",
+                "h": "100",
+                "w": "120",
+                "url": "./images/ScreenExercice_Math.png"
+            },
+            {
+                "key": "portfolio1",
+                "hover": "left",
+                "h": "100",
+                "w": "100",
+                "url": "./images/ScreenshotExercice_Math.png"
+            }
+        ],
+        "stack": [
+            {
+                "key": "android",
+                "name": "Android",
+                "type": "devicon"
+            },
+            {
+                "key": "java",
+                "name": "Java",
+                "type": "devicon"
+            }
+        ]
+    }
+]

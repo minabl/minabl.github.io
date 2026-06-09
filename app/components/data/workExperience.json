@@ -1,0 +1,40 @@
+[
+    {
+        "role": "AI Research Intern – Final Year Project",
+        "company": "MARS Research Lab",
+        "period": "Jan 2025 — Jun 2025",
+        "location": "Hammam Sousse, Tunisia",
+        "bullets": [
+            "Architected and deployed a context-aware AI recommendation engine using a hybrid collaborative-filtering pipeline.",
+            "Built end-to-end data preprocessing workflows (cleaning, normalization, feature selection) to boost model accuracy and reduce training time.",
+            "Trained and benchmarked classification models with TensorFlow, applying hyperparameter tuning and cross-validation to optimize performance.",
+            "Documented experimental results and presented findings to supervisors, translating technical insights into actionable recommendations."
+        ],
+        "tech": ["Python", "TensorFlow", "Scikit-learn", "Pandas", "Feature Engineering"]
+    },
+    {
+        "role": "Full-Stack Developer – Final Year Project",
+        "company": "Tunisie Technologie",
+        "period": "Feb 2023 — May 2023",
+        "location": "Sahloul, Tunisia",
+        "bullets": [
+            "Designed and delivered a full-stack home-services platform from requirements to production, covering both UI and RESTful API layers.",
+            "Engineered a real-time booking and provider management system with calendar availability, status tracking, and conflict resolution logic.",
+            "Integrated Leaflet.js for geolocation-based provider search, enabling radius filtering and dynamic map rendering from a Laravel backend.",
+            "Managed global application state with Redux Toolkit, reducing prop-drilling complexity and improving component reusability."
+        ],
+        "tech": ["React.js", "Redux Toolkit", "Leaflet.js", "Laravel", "MySQL", "REST API"]
+    },
+    {
+        "role": "Web Developer Intern (WordPress)",
+        "company": "LAB-IT",
+        "period": "Jun 2022 — Aug 2022",
+        "location": "Sousse, Tunisia",
+        "bullets": [
+            "Developed a fully functional car rental website with booking forms, vehicle galleries, and an admin dashboard for fleet management.",
+            "Customized WordPress themes and extended plugin functionality with PHP hooks to match client brand guidelines.",
+            "Optimized page-load performance by compressing assets and configuring caching, achieving measurable Lighthouse score improvements."
+        ],
+        "tech": ["WordPress", "PHP", "Theme Customization", "Plugin Development"]
+    }
+]

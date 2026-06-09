@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Full-Stack Web Development with React & Node.js",
+    "issuer": "Udemy",
+    "date": "2023",
+    "credential": "UC-123456789",
+    "link": "https://udemy.com/",
+    "icon": "🎓"
+  },
+  {
+    "title": "AWS Certified Solutions Architect – Associate",
+    "issuer": "Amazon Web Services",
+    "date": "2024",
+    "credential": "AWS-SA-12345",
+    "link": "https://aws.amazon.com/",
+    "icon": "☁️"
+  },
+  {
+    "title": "Google Cloud Professional Cloud Architect",
+    "issuer": "Google Cloud",
+    "date": "2023",
+    "credential": "GCP-12345678",
+    "link": "https://cloud.google.com/",
+    "icon": "🌐"
+  }
+]

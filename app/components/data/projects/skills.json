@@ -1,0 +1,55 @@
+[
+  {
+    "label": "Frontend",
+    "skills": [
+      { "name": "React", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" },
+      { "name": "Next.js", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" },
+      { "name": "TypeScript", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" },
+      { "name": "Tailwind CSS", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" },
+      { "name": "Angular", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/angular.svg" }
+    ]
+  },
+  {
+    "label": "Backend",
+    "skills": [
+      { "name": "Spring Boot", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/springboot.svg" },
+      { "name": "Laravel", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/laravel.svg" },
+      { "name": "FastAPI", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/fastapi.svg" },
+      { "name": "REST APIs", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" }
+    ]
+  },
+  {
+    "label": "Database",
+    "skills": [
+      { "name": "MongoDB", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" },
+      { "name": "PostgreSQL", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" },
+      { "name": "Redis", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redis.svg" }
+    ]
+  },
+  {
+    "label": "DevOps & Tools",
+    "skills": [
+      { "name": "Git / GitHub", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" },
+      { "name": "Docker", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" },
+      { "name": "CI/CD", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubactions.svg" },
+      { "name": "Kubernetes", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kubernetes.svg" }
+    ]
+  },
+  {
+    "label": "Mobile",
+    "skills": [
+      { "name": "Android", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" },
+      { "name": "Flutter", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" },
+      { "name": "React Native", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" }
+    ]
+  },
+  {
+    "label": "Design",
+    "skills": [
+      { "name": "Photoshop", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" },
+      { "name": "Illustrator", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobeillustrator.svg" },
+      { "name": "Figma", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" },
+      { "name": "Blender", "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/blender.svg" }
+    ]
+  }
+]

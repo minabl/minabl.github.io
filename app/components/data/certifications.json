@@ -1,53 +1,53 @@
 [
-    {
-        "title": "Fundamentals of Deep Learning",
-        "issuer": "NVIDIA",
-        "category": "AI & Machine Learning",
-        "date": "Février 21, 2025",
-        "certId": "QMBADEfYSQuHYwVgGEA5ww",
-        "image": "/images/certificates/deep.jpg",
-        "bullets": [
-            "Maîtrise des fondamentaux du deep learning et des réseaux de neurones.",
-            "Compréhension des architectures de deep learning courantes.",
-            "Pratique avec les frameworks de deep learning populaires."
-        ]
-    },
-    {
-        "title": "Kubernetes Troubleshooting for Application Developers",
-        "issuer": "KodeKloud",
-        "category": "DevOps",
-        "date": "February 17, 2026",
-        "certId": "8f51b309-62bc-4e0d-ac7b-5cd42b552449",
-        "image": "/images/certificates/kbernet.jpg",
-        "bullets": [
-            "Expertise en diagnostic et résolution de problèmes Kubernetes.",
-            "Compétences avancées en déploiement et gestion de conteneurs.",
-            "Optimisation des applications dans un environnement Kubernetes."
-        ]
-    },
-    {
-        "title": "Docker Training Course for the Absolute Beginner",
-        "issuer": "KodeKloud",
-        "category": "DevOps",
-        "date": "February 16, 2026",
-        "certId": "721ffea2-ae25-496f-bd98-a1c542ad39e6",
-        "image": "/images/certificates/docker.jpg",
-        "bullets": [
-            "Compréhension complète des concepts fondamentaux de Docker.",
-            "Création et gestion d'images et de conteneurs Docker.",
-            "Déploiement d'applications en utilisant Docker."
-        ]
-    },
-    {
-        "title": "Maîtrise des règles et des procédures relatives au vote et au dépouillement des suffrages.",
-        "titleFr": "Compétence en Règles de Vote et de Dépouillement",
-        "issuer": "Haute Instance Indépendante pour les Élections (ISIE)",
-        "category": "Gouvernance",
-        "date": "30/09/2024",
-        "image": "/images/certificates/isie.jpeg",
-        "bullets": [
-            "Expertise en règles et procédures de vote et de dépouillement.",
-            "Application pratique des normes démocratiques."
-        ]
-    }
+  {
+    "title": "Fundamentals of Deep Learning",
+    "issuer": "NVIDIA",
+    "category": "AI & Machine Learning",
+    "date": "February 21, 2025",
+    "certId": "QMBADEfYSQuHYwVgGEA5ww",
+    "image": "/images/certificates/deep.jpg",
+    "bullets": [
+      "Mastered the fundamentals of deep learning and neural networks.",
+      "Gained a solid understanding of common deep learning architectures.",
+      "Worked with popular deep learning frameworks."
+    ]
+  },
+  {
+    "title": "Kubernetes Troubleshooting for Application Developers",
+    "issuer": "KodeKloud",
+    "category": "DevOps",
+    "date": "February 17, 2026",
+    "certId": "8f51b309-62bc-4e0d-ac7b-5cd42b552449",
+    "image": "/images/certificates/kbernet.jpg",
+    "bullets": [
+      "Developed expertise in diagnosing and resolving Kubernetes issues.",
+      "Acquired advanced skills in container deployment and management.",
+      "Optimized application performance in Kubernetes environments."
+    ]
+  },
+  {
+    "title": "Docker Training Course for the Absolute Beginner",
+    "issuer": "KodeKloud",
+    "category": "DevOps",
+    "date": "February 16, 2026",
+    "certId": "721ffea2-ae25-496f-bd98-a1c542ad39e6",
+    "image": "/images/certificates/docker.jpg",
+    "bullets": [
+      "Built a comprehensive understanding of Docker fundamentals.",
+      "Created and managed Docker images and containers.",
+      "Deployed applications using Docker."
+    ]
+  },
+  {
+    "title": "Proficiency in Voting and Vote Counting Procedures",
+    "titleFr": "Compétence en Règles de Vote et de Dépouillement",
+    "issuer": "Independent High Authority for Elections (ISIE)",
+    "category": "Governance",
+    "date": "September 30, 2024",
+    "image": "/images/certificates/isie.jpeg",
+    "bullets": [
+      "Demonstrated expertise in voting regulations and vote counting procedures.",
+      "Applied democratic standards and electoral best practices in practice."
+    ]
+  }
 ]
